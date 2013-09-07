@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DPI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="set90dpi">90 DPI</string>
+    <string name="set100DPI">100 DPI</string>
+    <string name="set120DPI">Stock</string>
+    <string name="welcome">Welcome To MotoActv DPI! This app was made by Joshua Kittle (jkok) of kittle apps and more!</string>
+    <string name="howto">Simply Tap the DPI u want and your watch will reboot with the new values; then u may uninstall if u wish</string>
+
+</resources>
